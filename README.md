@@ -1,1 +1,2 @@
-# Sigma-Web-Deve-Course
+# Sigma-Web-Dev-Course
+Source Code for Sigma Web Developer Couse
